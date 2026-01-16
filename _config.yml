@@ -5,6 +5,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+author: Luka Rekhviashvili
+
 minima:
   hide_site_feed_link: true
   social_links:
