@@ -1,0 +1,11 @@
+remote_theme: jekyll/minima@v2.5.1
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author: Luka Rekhviashvili
+
+minima:
+  hide_site_feed_link: true
